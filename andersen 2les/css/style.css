@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+table {
+    background-color: white;
+    width: 60%;
+    margin: auto;
+}
+img {
+    padding-left: 25px;
+}
+p{
+    font-size: 20px;
+    line-height: 1.7;
+}
+a { 
+    text-decoration: none;
+}
+caption {
+    font-size: 40px;
+    color: white;
+}
+.rank{
+    padding-right: 20px;
+}
